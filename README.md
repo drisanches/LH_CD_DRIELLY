@@ -7,10 +7,8 @@ Bem-vindo ao repositório do projeto de análise de dados e modelagem preditiva 
 - `README.md`: Este arquivo.
 - `requirements.txt`: Lista de pacotes Python necessários para executar o projeto.
 - `data_dictionary.md`: Dicionário de dados fornecendo detalhes sobre o dataset utilizado.
-- `exploratory_data_analysis.ipynb`: Jupyter Notebook com a Análise Exploratória de Dados (EDA).
-- `price_prediction_model.ipynb`: Jupyter Notebook com o desenvolvimento do modelo preditivo de preços.
+- `EDA_prediction_model.ipynb`: Jupyter Notebook com a Análise Exploratória de Dados (EDA) e o desenvolvimento do modelo preditivo de preços.
 - `model.pkl`: Modelo de previsão de preços salvo em formato pickle.
-- `reports/`: Pasta contendo relatórios e gráficos gerados durante a EDA.
 
 ## Instalação e Execução
 Para executar este projeto, siga os passos abaixo:
