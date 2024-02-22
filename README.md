@@ -21,8 +21,8 @@ cd ny_model
 ```
 pip install -r requirements.txt
 ```
-3. Executar os Jupyter Notebooks  
-Abra os notebooks `exploratory_data_analysis.ipynb` e `price_prediction_model.ipynb` em um ambiente que suporte Jupyter Notebook, como o JupyterLab, Goggle Colab ou o VSCode.
+3. Executar o Jupyter Notebook   
+Abra o notebook `EDA_prediction_model.ipynb` em um ambiente que suporte Jupyter Notebook, como o JupyterLab, Google Colab ou o VSCode.
 
 ## Principais Entregas
 - **Análise Exploratória de Dados (EDA):** Investigação detalhada das variáveis disponíveis no dataset, identificação de tendências, padrões e correlações relevantes para o negócio.
