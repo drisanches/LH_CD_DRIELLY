@@ -1,7 +1,7 @@
 # Análise de Dados e Modelagem Preditiva para Plataforma de Aluguel Temporário em Nova York
 
 ## Descrição do Projeto
-Bem-vindo ao repositório do projeto de análise de dados e modelagem preditiva para uma plataforma de aluguel temporário em Nova York, desenvolvido como parte do desafio de Ciência de Dados do Programa Lighthouse da Indicium. Este projeto envolve a análise exploratória de dados (EDA) do mercado de aluguel temporário de Nova York, utilizando dados do principal concorrente, com o objetivo de desenvolver uma estratégia de precificação eficaz para o nosso cliente.
+Bem-vindo(a) ao repositório do projeto de análise de dados e modelagem preditiva para uma plataforma de aluguel temporário em Nova York, desenvolvido como parte do desafio de Ciência de Dados do Programa Lighthouse da Indicium. Este projeto envolve a análise exploratória de dados (EDA) do mercado de aluguel temporário de Nova York, utilizando dados do principal concorrente, com o objetivo de desenvolver uma estratégia de precificação eficaz para o nosso cliente.
 
 ## Estrutura do Repositório
 - `README.md`: Este arquivo.
@@ -41,4 +41,5 @@ Abra o notebook `EDA_prediction_model.ipynb` em um ambiente que suporte Jupyter 
 - **NLTK:** Biblioteca para processamento de linguagem natural.
 
 ## Suporte e Contribuições
-Para suporte, entre em contato com [driellysanches.s@gmail.com]. Contribuições para o projeto são sempre bem-vindas.
+Para suporte, entre em contato com [driellysanches.s@gmail.com].  
+Contribuições para o projeto são sempre bem-vindas.
